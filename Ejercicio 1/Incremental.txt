@@ -1,0 +1,19 @@
+El modelo incremental fue propuesto por Harlan Mills en el año 1980. Surgió el enfoque incremental de desarrollocomo una forma de reducir la repetición 
+del trabajo en el proceso de desarrollo y dar oportunidad de retrasar la toma de decisiones en los requisitos hasta adquirirexperiencia con el sistema. 
+Este modelo se conoce también bajo las siguientes denominaciones:
+
+Método de las comparaciones limitadas sucesivas.
+Ciencia de salir del paso.
+Método de atacar el problema por ramas.
+
+El Modelo Incremental combina elementos del Modelo Lineal Secuencial con la filosofía interactiva de Construcción de Prototipos.
+Como se muestra en la Figura 1, el modelo incremental aplica secuencias lineales de forma escalonada mientras progresa el tiempo en el calendario. 
+Cada secuencia lineal produce un incremento del software. El primer incremento generalmente es un producto esencial denominado núcleo.
+
+
+En una visión genérica, el proceso se divide en 4 partes:
+
+Análisis
+Diseño
+Código
+Prueba
