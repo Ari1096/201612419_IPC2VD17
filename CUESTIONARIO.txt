@@ -1,0 +1,9 @@
+RESPUESTA PREGUNTA 1:
+ se refiere a la idea de consignar un conjunto de cambios provisionales de forma permanente. 
+Un uso popular es al final de una transacción de base de datos.
+
+RESPUESTA PREGUNTA 2:
+Se refiere a unir todas las ramas, es decir, los cambios que se hicieron en otra ubicación unirlos a un mismo documento
+
+RESPUESTA PREGUNTA 3:
+Por push se entiende a subir los cambios y por pull se refiere a bajarlos.
