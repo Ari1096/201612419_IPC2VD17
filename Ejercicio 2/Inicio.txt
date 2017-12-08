@@ -1,21 +1,21 @@
-Definición
-La programación Orientada a objetos (POO) es una forma especial de programar, más cercana a como expresaríamos las cosas en la vida real que otros tipos de 
-programación.Durante años, los programadores se han dedicado a construir aplicaciones muy parecidas que resolvían una y otra vez los mismos problemas. 
-Para conseguir que los esfuerzos de los programadores puedan ser utilizados por otras personas se creó la POO. Que es una serie de normas de realizar 
-las cosas de manera que otras personas puedan utilizarlas y adelantar su trabajo, de manera que consigamos que el código se pueda reutilizar.
-La POO no es difícil, pero es una manera especial de pensar, a veces subjetiva de quien la programa, de manera que la forma de hacer las cosas puede ser 
-diferente según el programador. Aunque podamos hacer los programas de formas distintas, no todas ellas son correctas, lo difícil no es programar orientado 
-a objetos sino programar bien. Programar bien es importante porque así nos podemos aprovechar de todas las ventajas de la POO.Cómo se piensa en objetos
-Pensar en términos de objetos es muy parecido a cómo lo haríamos en la vida real. Por ejemplo vamos a pensar en un coche para tratar de modelizarlo en un 
-esquema de POO. Diríamos que el coche es el elemento principal que tiene una serie de características, como podrían ser el color, el modelo o la marca. 
+Dfncn
+L prgrmcn rntd  bjts (P) s n frm spcl d prgrmr, ms crcn  cm xprsrms ls css n l vd rl q trs tps d 
+prgrmcn.rnt ñs, ls prgrmdrs s hn ddcd  cnstrr plccns my prcds q rslvn n y tr vz ls msms prblms. 
+Pr cnsgr q ls sfrzs d ls prgrmdrs pdn sr tlzds pr trs prsns s cr l P. Q s n sr d nrms d rlzr 
+ls css d mnr q trs prsns pdn tlzrls y dlnr s trbj, d mnr q cnsgs q  cd s pd rtlzr.
+L P n s dfcl, pr s n Mnr spcl d pnsr,  vcs sbjtv d qn l prgrm, d mnr q l frm d hcr ls css pd sr 
+dfrnt sgún l prgrmdr. nq pdms hcr ls prgrms d frms dstnts, n tds lls sn crrcts, l dfícl n s prgrmr rntd 
+ bjts sn prgrmr bn. Prgrmr bn s mprtnt prq sí ns pdms prvchr d tds ls vntjs d l P.Cóm s pns n bjts
+Pnsr n térmns d bjts s my prcd  cóm l hríms n l vd rl. Pr jmpl vms  pnsr n n cch pr trtr d mdlzrl n n 
+sqm d P. Dríms q l cch s l lmnt prncpl q tn n sr d crctrístcs, cm pdrín sr l clr, l mdl  l mrc. 
 
-Además tiene una serie de funcionalidades asociadas, como pueden ser ponerse en marcha, parar o aparcar.Pues en un esquema POO el coche sería el objeto, 
-las propiedades serían las características como el color o el modelo y los métodos serían las funcionalidades asociadas como ponerse en marcha o parar.
-Por poner otro ejemplo vamos a ver cómo modelizaríamos en un esquema POO una fracción, es decir, esa estructura matemática que tiene un numerador y un 
-denominador que divide al numerador, por ejemplo 3/2.La fracción será el objeto y tendrá dos propiedades, el numerador y el denominador. Luego podría tener 
-varios métodos como simplificarse, sumarse con otra fracción o número, restarse con otra fracción, etc.Estos objetos se podrán utilizar en los programas, 
-por ejemplo en un programa de matemáticas harás uso de objetos fracción y en un programa que gestione un taller de coches utilizarás objetos coche. Los 
-programas Orientados a objetos utilizan muchos objetos para realizar las acciones que se desean realizar y ellos mismos también son objetos. Es decir, el 
-taller de coches será un objeto que utilizará objetos coche, herramienta, mecánico, recambios, etc.
+dmás tn n sr d fncnldds scds, cm pdn sr pnrs n mrch, prr  prcr.Ps n n sqm P l cch srí l bjt, 
+ls prpdds srín ls crctrístcs cm l clr  l mdl y ls métds srín ls fncnldds scds cm pnrs n mrch  prr.
+Pr pnr tr jmpl vms  vr cóm mdlzríms n n sqm P n frccón, s dcr, s strctr mtmátc q tn n nmrdr y n 
+dnmndr q dvd l nmrdr, pr jmpl 3/2.L frccón srá l bjt y tndrá ds prpdds, l nmrdr y l dnmndr. Lg pdrí tnr 
+vrs métds cm smplfcrs, smrs cn tr frccón  númr, rstrs cn tr frccón, tc.sts bjts s pdrán tlzr n ls prgrms, 
+pr jmpl n n prgrm d mtmátcs hrás s d bjts frccón y n n prgrm q gstn n tllr d cchs tlzrás bjts cch. Ls 
+prgrms rntds  bjts tlzn mchs bjts pr rlzr ls ccns q s dsn rlzr y lls msms tmbén sn bjts. s dcr, l 
+tllr d cchs srá n bjt q tlzrá bjts cch, hrrmnt, mcánc, rcmbs, tc.
 
-PAGINA 10
+PGN 10
